@@ -33,12 +33,9 @@ These dashboards were made interactive, allowing users to explore data by applyi
 ## Anticipated Benefits:
 By implementing the above solution approach, AtliQ hardware expects to achieve the following outcomes:
 
-     * Enhanced Data Insightfulness: Leveraging the SQL and Power BI integration for detailed sales analysis, enabling more efficient and effective data exploration.
-
-     * Informed Strategic Decision-Making: The comprehensive dashboards offer a multi-faceted view of sales data, supporting strategic decisions related to product profitability, pricing, and market targeting.
-
-     * Operational Efficiency: Power BI's data transformation capabilities streamline data cleaning, saving time and resources, thus allowing a focus on analysis and insight generation.
-
-     * Revenue Enhancement: By utilizing detailed insights for decision-making, AtliQ Hardware aims for a minimum of 7% revenue growth in the following quarter by capitalizing on identified opportunities and implementing strategic actions.
+* Enhanced Data Insightfulness: Leveraging the SQL and Power BI integration for detailed sales analysis, enabling more efficient and effective data exploration.
+* Informed Strategic Decision-Making: The comprehensive dashboards offer a multi-faceted view of sales data, supporting strategic decisions related to product profitability, pricing, and market targeting.
+* Operational Efficiency: Power BI's data transformation capabilities streamline data cleaning, saving time and resources, thus allowing a focus on analysis and insight generation.
+* Revenue Enhancement: By utilizing detailed insights for decision-making, AtliQ Hardware aims for a minimum of 7% revenue growth in the following quarter by capitalizing on identified opportunities and implementing strategic actions.
 
 This strategy leverages SQL for data management and Power BI for advanced analytics and visualization, providing AtliQ Hardware with a powerful toolset for data-driven growth and strategic planning.
